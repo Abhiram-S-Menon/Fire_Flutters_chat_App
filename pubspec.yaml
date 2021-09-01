@@ -48,6 +48,21 @@ flutter:
   assets:
     - assets/welcome_image.png
     - assets/Logo_dark.png
+    - assets/contact0.jpg
+    - assets/contact1.jpg
+    - assets/contact2.jpg
+    - assets/contact3.jpg
+    - assets/contact4.jpg
+    - assets/contact5.png
+    - assets/contact6.jpg
+    - assets/contact7.jpg
+    - assets/contact8.jpg
+    - assets/contact9.jpg
+    - assets/contact10.jpg
+    - assets/contact11.jpg
+    - assets/dp.png
+    
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
